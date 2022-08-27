@@ -1,0 +1,8 @@
+{
+    "name": "runner/server",
+    "type": "project",
+    "require": {
+        "rakibtg/sleekdb": "^2.13",
+        "league/plates": "^3.4"
+    }
+}
